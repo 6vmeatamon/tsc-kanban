@@ -1,0 +1,15 @@
+{
+  "name": "kanban",
+  "version": "0.0.1",
+  "description": "kanban application with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.1",
+    "typescript": "^5.2.2"
+  }
+}
